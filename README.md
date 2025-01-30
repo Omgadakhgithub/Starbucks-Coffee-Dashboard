@@ -1,5 +1,6 @@
 # Starbucks-Coffee-Dashboard
 <img src="https://github.com/Omgadakhgithub/Starbucks-Coffee-Sales/blob/61aac5e5365c545963f7bab880861eb39f8bcd43/Coffee%20image.jpeg" alt="myql-logo" width="1000" height="500"/>
+
 # Overview :
 
 This dashboard is for presenting my insights to the regional manager of the coffee chain with 3 different stores.I have created a dashboard which can help me discuss the operations of these stores with my higher-ups. This will be done solely to optimize the operations.
