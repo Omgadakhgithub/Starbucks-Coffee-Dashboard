@@ -22,4 +22,4 @@ I have noticed that the bottom products for all the stores include some flavours
 
 # DASHBOARD:
 
-<img src="https://github.com/Omgadakhgithub/Starbucks-Coffee-Sales/blob/cf0a9f455e7778dc3a22d8244da02d67711fdd92/Coffee%20Dashboard%20Image.jpg" alt="myql-logo" width="1050" height="500"/>
+<img src="https://github.com/Omgadakhgithub/Starbucks-Coffee-Sales/blob/cf0a9f455e7778dc3a22d8244da02d67711fdd92/Coffee%20Dashboard%20Image.jpg" alt="myql-logo" width="1200" height="500"/>
