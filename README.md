@@ -54,39 +54,30 @@ These insights will help Starbucks refine its **pricing, promotions, and product
   - Increase staffing during peak hours for a smoother customer experience.
 ---
 # Data Story :
-**A Year of Growth:**  
-Starbucks' sales have shown **steady monthly growth**, with **March experiencing a significant revenue spike**—indicating a **seasonal trend or a successful promotion.**  
+  **A Year of Growth:**  
+  Starbucks' sales have shown **steady monthly growth**, with **March experiencing a significant revenue spike**—indicating a **seasonal trend or a successful promotion.**  
+  
+  ---
+  
+  ### **Customer Preferences: What’s Brewing?**  
+  Among beverages, **Brewed Chai Tea and Gourmet Brewed Coffee** are the undisputed favorites, while **coffee beans and herbal tea struggle** to gain traction. This suggests customers **prefer ready-to-drink options** over take-home products.   
+  
+  ---
+  
+  ### **Timing Matters: When Do Customers Buy?**  
+  Sales peak during **morning hours (7-10 AM)**, reinforcing Starbucks as a go-to breakfast spot. However, **evening sales drop significantly**, presenting an opportunity for promotions like **Happy Hour deals** to drive late-day visits.  
 
-📊 *Suggested Visual:* Line chart of **monthly revenue growth** to highlight the March spike.  
-
----
-
-### **Customer Preferences: What’s Brewing?**  
-Among beverages, **Brewed Chai Tea and Gourmet Brewed Coffee** are the undisputed favorites, while **coffee beans and herbal tea struggle** to gain traction. This suggests customers **prefer ready-to-drink options** over take-home products.  
-
-🔥 *Suggested Visual:* Bar chart showing **top-selling vs. low-selling products** for a clear comparison.  
-
----
-
-### **Timing Matters: When Do Customers Buy?**  
-Sales peak during **morning hours (7-10 AM)**, reinforcing Starbucks as a go-to breakfast spot. However, **evening sales drop significantly**, presenting an opportunity for promotions like **Happy Hour deals** to drive late-day visits.  
-
-🕒 *Suggested Visual:* Heatmap or line graph of **hourly sales trends** to show peak and slow hours.  
-
----
-
-### **Weekday vs. Weekend Trends**  
-**Mondays see the highest transactions,** reflecting Starbucks’ role in workday routines. **Sundays experience a slight dip,** suggesting lower weekend coffee demand.  
-
-📅 *Suggested Visual:* Bar chart showing **transactions by day of the week** to highlight weekday strength.  
-
----
-
-### **Strategic Growth Opportunities**  
-✅ **Expand high-demand products** like Brewed Chai Tea with new variations.  
-✅ **Introduce evening promotions** to increase sales after 5 PM.  
-✅ **Boost weekend engagement** with exclusive offers or partnerships.  
-
+  ---
+  
+  ### **Weekday vs. Weekend Trends**  
+  **Mondays see the highest transactions,** reflecting Starbucks’ role in workday routines. **Sundays experience a slight dip,** suggesting lower weekend coffee demand.  
+  
+  ---
+  
+  ### **Strategic Growth Opportunities**  
+  ✅ **Expand high-demand products** like Brewed Chai Tea with new variations.  
+  ✅ **Introduce evening promotions** to increase sales after 5 PM.  
+  ✅ **Boost weekend engagement** with exclusive offers or partnerships.  
 
 ---
 # Dash Board:
