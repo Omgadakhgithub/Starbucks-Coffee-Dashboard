@@ -54,23 +54,23 @@ These insights will help Starbucks refine its **pricing, promotions, and product
   - Increase staffing during peak hours for a smoother customer experience.
 ---
 # Data Story :
-  **1.A Year of Growth:**  
-  Starbucks' sales have shown **steady monthly growth**, with **March experiencing a significant revenue spike**—indicating a **seasonal trend or a successful promotion.**  
+  ### **1.A Year of Growth:**  
+  - Starbucks' sales have shown **steady monthly growth**, with **March experiencing a significant revenue spike**—indicating a **seasonal trend or a successful promotion.**  
   
   ---
   
   ### **2.Customer Preferences: What’s Brewing?**  
-  -Among beverages, **Brewed Chai Tea and Gourmet Brewed Coffee** are the undisputed favorites, while **coffee beans and herbal tea struggle** to gain traction. This suggests customers **prefer ready-to-drink options** over take-home products.   
+  - Among beverages, **Brewed Chai Tea and Gourmet Brewed Coffee** are the undisputed favorites, while **coffee beans and herbal tea struggle** to gain traction. This suggests customers **prefer ready-to-drink options** over take-home products.   
   
   ---
   
   ### **3.Timing Matters: When Do Customers Buy?**  
-  -Sales peak during **morning hours (7-10 AM)**, reinforcing Starbucks as a go-to breakfast spot. However, **evening sales drop significantly**, presenting an opportunity for promotions like **Happy Hour deals** to drive late-day visits.  
+  - Sales peak during **morning hours (7-10 AM)**, reinforcing Starbucks as a go-to breakfast spot. However, **evening sales drop significantly**, presenting an opportunity for promotions like **Happy Hour deals** to drive late-day visits.  
 
   ---
   
   ### **4.Weekday vs. Weekend Trends**  
-  -**Mondays see the highest transactions,** reflecting Starbucks’ role in workday routines. **Sundays experience a slight dip,** suggesting lower weekend coffee demand.  
+  - **Mondays see the highest transactions,** reflecting Starbucks’ role in workday routines. **Sundays experience a slight dip,** suggesting lower weekend coffee demand.  
   
   ---
   
