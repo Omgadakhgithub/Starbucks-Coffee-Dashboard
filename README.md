@@ -75,9 +75,9 @@ These insights will help Starbucks refine its **pricing, promotions, and product
   ---
   
   ### **5.Strategic Growth Opportunities**  
-  ✅ **Expand high-demand products** like Brewed Chai Tea with new variations.  
-  ✅ **Introduce evening promotions** to increase sales after 5 PM.  
-  ✅ **Boost weekend engagement** with exclusive offers or partnerships.  
+   ✅ **Expand high-demand products** like Brewed Chai Tea with new variations.  
+   ✅ **Introduce evening promotions** to increase sales after 5 PM.  
+   ✅ **Boost weekend engagement** with exclusive offers or partnerships.  
 
 ---
 # Dash Board:
