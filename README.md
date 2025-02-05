@@ -1,5 +1,5 @@
 # Starbucks-Coffee-Sales
-<img src="https://github.com/Omgadakhgithub/Starbucks-Coffee-Sales/blob/61aac5e5365c545963f7bab880861eb39f8bcd43/Coffee%20image.jpeg" alt="myql-logo" width="1000" height="500"/>
+<img src="https://github.com/Omgadakhgithub/Starbucks-Coffee-Sales/blob/f25ee052bf0c6e45ca791597016e0f4637285cc2/photo-1495474472287-4d71bcdd2085.jpg" width="1000" height="500"/>
 
 ---
 ### **Introduction: Starbucks Coffee Sales Analysis**  
