@@ -54,9 +54,41 @@ These insights will help Starbucks refine its **pricing, promotions, and product
   - Increase staffing during peak hours for a smoother customer experience.
 ---
 # Data Story :
-I have noticed that the bottom products for all the stores include some flavours and other products like coffee beans. Also, the merchandise clothing for Hell's Kitchen is way less as compared to other stores. We shall provide some discount offers to this store to increase sales. Or else completely remove it from displaying at this store and keep it available on order only. This shall help us reduce costs of operations.
+**A Year of Growth:**  
+Starbucks' sales have shown **steady monthly growth**, with **March experiencing a significant revenue spike**—indicating a **seasonal trend or a successful promotion.**  
+
+📊 *Suggested Visual:* Line chart of **monthly revenue growth** to highlight the March spike.  
+
+---
+
+### **Customer Preferences: What’s Brewing?**  
+Among beverages, **Brewed Chai Tea and Gourmet Brewed Coffee** are the undisputed favorites, while **coffee beans and herbal tea struggle** to gain traction. This suggests customers **prefer ready-to-drink options** over take-home products.  
+
+🔥 *Suggested Visual:* Bar chart showing **top-selling vs. low-selling products** for a clear comparison.  
+
+---
+
+### **Timing Matters: When Do Customers Buy?**  
+Sales peak during **morning hours (7-10 AM)**, reinforcing Starbucks as a go-to breakfast spot. However, **evening sales drop significantly**, presenting an opportunity for promotions like **Happy Hour deals** to drive late-day visits.  
+
+🕒 *Suggested Visual:* Heatmap or line graph of **hourly sales trends** to show peak and slow hours.  
+
+---
+
+### **Weekday vs. Weekend Trends**  
+**Mondays see the highest transactions,** reflecting Starbucks’ role in workday routines. **Sundays experience a slight dip,** suggesting lower weekend coffee demand.  
+
+📅 *Suggested Visual:* Bar chart showing **transactions by day of the week** to highlight weekday strength.  
+
+---
+
+### **Strategic Growth Opportunities**  
+✅ **Expand high-demand products** like Brewed Chai Tea with new variations.  
+✅ **Introduce evening promotions** to increase sales after 5 PM.  
+✅ **Boost weekend engagement** with exclusive offers or partnerships.  
 
 
-# DASHBOARD:
+---
+# Dash Board:
 
 <img src="https://github.com/Omgadakhgithub/Starbucks-Coffee-Sales/blob/cf0a9f455e7778dc3a22d8244da02d67711fdd92/Coffee%20Dashboard%20Image.jpg" alt="myql-logo" width="1200" height="500"/>
