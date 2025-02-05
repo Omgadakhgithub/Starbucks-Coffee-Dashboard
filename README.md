@@ -15,6 +15,7 @@ Key focus areas include:
 These insights will help Starbucks refine its **pricing, promotions, and product strategies**, ensuring a more profitable and customer-centric approach. ☕📊
 
 ---
+### Result & Insights:
 #### **1. Revenue & Profit Trends**
 - **Monthly Revenue Growth:**  
   - Revenue shows a **consistent upward trend** each month, with a **significant spike in March**.
@@ -53,7 +54,7 @@ These insights will help Starbucks refine its **pricing, promotions, and product
 - **Optimize Store Operations:**  
   - Increase staffing during peak hours for a smoother customer experience.
 ---
-# Data Story :
+# Data Story:
   ### **1.A Year of Growth:**  
   - Starbucks' sales have shown **steady monthly growth**, with **March experiencing a significant revenue spike**—indicating a **seasonal trend or a successful promotion.**  
   
