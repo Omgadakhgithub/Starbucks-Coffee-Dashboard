@@ -81,7 +81,9 @@ These insights will help Starbucks refine its **pricing, promotions, and product
    ✅ **Boost weekend engagement** with exclusive offers or partnerships.  
 
 ---
-# Dash Board:
 
-[![Coffee Dashboard](https://raw.githubusercontent.com/Omgadakhgithub/Starbucks-Coffee-Sales/main/Coffee%20Dashboard%20Image.jpg)](https://raw.githubusercontent.com/Omgadakhgithub/Starbucks-Coffee-Sales/main/Coffee%20Dashboard%20Image.jpg)
+# Dashboard:
 
+<a href="https://raw.githubusercontent.com/Omgadakhgithub/Starbucks-Coffee-Sales/main/Coffee%20Dashboard%20Image.jpg">
+    <img src="https://raw.githubusercontent.com/Omgadakhgithub/Starbucks-Coffee-Sales/main/Coffee%20Dashboard%20Image.jpg" alt="Coffee Dashboard" height="500">
+</a>
