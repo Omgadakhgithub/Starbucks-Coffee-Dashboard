@@ -83,4 +83,5 @@ These insights will help Starbucks refine its **pricing, promotions, and product
 ---
 # Dash Board:
 
-<img src="https://github.com/Omgadakhgithub/Starbucks-Coffee-Sales/blob/cf0a9f455e7778dc3a22d8244da02d67711fdd92/Coffee%20Dashboard%20Image.jpg" alt="myql-logo" width="1200" height="500"/>
+[![Coffee Dashboard](https://raw.githubusercontent.com/Omgadakhgithub/Starbucks-Coffee-Sales/main/Coffee%20Dashboard%20Image.jpg)](https://raw.githubusercontent.com/Omgadakhgithub/Starbucks-Coffee-Sales/main/Coffee%20Dashboard%20Image.jpg)
+
